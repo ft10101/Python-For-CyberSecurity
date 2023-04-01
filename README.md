@@ -11,4 +11,4 @@ Which are reconnaissance and resource development, initial access, execution, pe
 ## MITRE shield:
 channel collect, contain, detect, disrupt, facilitate, legitimize and test.
 
-# And so all of these are actions that an active defender can take to help protect their network. 
+## And so all of these are actions that an active defender can take to help protect their network. 
